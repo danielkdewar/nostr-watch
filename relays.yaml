@@ -201,7 +201,8 @@ relays:
   - wss://no-str.org
   - wss://knostr.neutrine.com
   - wss://nostrical.com
-  - wss://nostr.milou.lol
+  - wss://nostr.
+  .lol
   - wss://relay.snort.social
   - wss://nostr.pobblelabs.org
   - wss://nostr-relay.bitcoin.ninja
@@ -271,3 +272,4 @@ relays:
   - wss://nostr.randomdevelopment.biz
   - wss://nostr21.com
   - wss://relay.bleskop.com
+  - wss://nostr.pcdkd.fyi
